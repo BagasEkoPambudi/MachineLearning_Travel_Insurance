@@ -1,5 +1,8 @@
 # MachineLearning_Travel_Insurance
 
+- Streamlit : https://machinelearningtravelinsurance-zy8ydkvq4yhwdqcryczvli.streamlit.app/
+
+  
 **Latar Belakang**
 
 Sebuah perusahaan asuransi perjalanan internasional menghadapi tantangan besar dalam menangani klaim pelanggan yang diajukan selama perjalanan internasional. Setiap tahunnya, puluhan ribu nasabah membeli polis untuk melindungi perjalanan mereka dari risiko seperti pembatalan, kecelakaan, atau kehilangan barang. Namun hanya sebagian kecil klaim yang benar-benar layak diproses, sementara sebagian besar tidak memenuhi kriteria kelayakan.
